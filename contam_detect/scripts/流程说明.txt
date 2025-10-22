@@ -1,0 +1,11 @@
+①修改后的fasta，原始fastq（同名）  →  运行Visualize.py可视化，得到.sam文件；
+②三个文件放到一个文件夹（例如./data），运行 python NPlasmid.py all -d ./data -b GAGTTATGGTCTAGTAGACC -n 2
+③得到预警数据的聚类结果，top n类数据保存到了./data，然后根据自己需要提共识序列判断。
+人工观察共识序列比对结果
+windows运行。
+代码设置参数，①是否提取sgRNA 20碱基，是否保存waring.fastq，②正确的sgRNA20碱基序列，③取聚类top n
+
+Visualize.py requirement：glob、minimap2
+
+python NPlasmid-seq.py all -d ./data -n 5
+注意：每次运行前要把提取公式序列的consen、racon删掉，否则提公式序列的软件不会工作。

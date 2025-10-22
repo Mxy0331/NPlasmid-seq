@@ -1,0 +1,178 @@
+new
+snapshotDirectory /mnt/d/mxy/XY/NP476/IGV
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2198.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2198-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2198-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2198-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2198-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2198.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2198.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2198_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2198_random200.sorted_by_strand.png
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2202.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2202-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2202-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2202-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2202-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2202.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2202.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2202_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2202_random200.sorted_by_strand.png
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2207.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2207-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2207-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2207-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2207-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2207.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2207.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2207_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2207_random200.sorted_by_strand.png
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2224.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2224-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2224-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2224-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2224-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2224.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2224.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2224_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2224_random200.sorted_by_strand.png
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2280.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2280-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2280-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2280-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2280-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2280.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2280.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2280_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2280_random200.sorted_by_strand.png
+
+genome /mnt/d/mxy/XY/NP476/Reference/P2389.fasta
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2389-R.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2389-R.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2389-R_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2389-R_random200.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2389.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2389.sorted_by_strand.png
+
+clear
+load /mnt/d/mxy/XY/NP476/Visualization/P2389_random200.sorted.bam
+colorBy READ_STRAND
+squish
+maxPanelHeight 800
+snapshot P2389_random200.sorted_by_strand.png
+
+exit
